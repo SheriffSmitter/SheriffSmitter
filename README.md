@@ -6,7 +6,7 @@
 ### :mortar_board: Education
 
 <table width="100%" border='0'>
-    <tr><td width="10%" valign="bottom"><img src="icons/miit_logo.jpeg"></td><td valign="middle">RUSSIAN UNIVERSITY OF TRANSPORT (MIIT)</br>Industrial and Civil Engineering</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="icons/miit_logo.jpg"></td><td valign="middle">RUSSIAN UNIVERSITY OF TRANSPORT (MIIT)</br>Industrial and Civil Engineering</td></tr>
     <tr><td width="10%" valign="bottom"><img src="icons/otus_logo.png"></td><td valign="middle">OTUS</br>Gamedev QA Engineer</td></tr>
     <tr><td width="10%" valign="bottom"><img src="icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Automation QA on Python</td></tr>
 </table>

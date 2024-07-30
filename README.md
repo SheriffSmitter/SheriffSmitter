@@ -19,4 +19,4 @@
 
 ### 📊 Statistics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zmamedov&theme=radical)
+[![SheriffSmitter GitHub stats](https://github-readme-stats.vercel.app/api?username=sheriffsmitter)](https://github.com/anuraghazra/github-readme-stats)

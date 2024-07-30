@@ -1,13 +1,14 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vadim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Middle QA engeneer from Russia, Moscow 🇷🇺</h3>
+<h3 align="center">Middle QA engineer from Russia, Moscow 🇷🇺</h3>
 ---
 
 ### :mortar_board: Education
 
 <table width="100%" border='0'>
     <tr><td width="10%" valign="bottom"><img src="icons/mephi_logo.jpeg"></td><td valign="middle">RUSSIAN UNIVERSITY OF TRANSPORT (MIIT)</br>Industrial and Civil Engineering</td></tr>
-    <tr><td width="10%" valign="bottom"><img src="icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="icons/mephi_logo.jpeg"></td><td valign="middle">OTUS</br>Gamedev QA Engineer</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Automation QA on Python</td></tr>
 </table>
 
 ### Languages and tools:
